@@ -1,7 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212224220105
 # Name: Srinivasan S
-# Date: 
 
 
 ## AIM:
